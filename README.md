@@ -9,17 +9,17 @@
 
 ##  Skills
 ### Programing Languages 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,ruby,python,ts,lisp" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,ruby,python,ts,haskell" />   
 
 ### Frontend Development
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=react,vite" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=react" />   
 
 ### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails" />  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails,nextjs,vite,servant" />  
 
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,emacs" />   
 
 ### Infrastructure
-<img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render&theme=dark&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render,vercel&theme=dark&titles=true" />
 <br>

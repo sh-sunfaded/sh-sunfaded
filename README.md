@@ -14,7 +14,7 @@
 ### Frontend Development
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=react" />   
 
-### Framework
+### Backend Development
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails,nextjs,vite,servant" />  
 
 ### Tools

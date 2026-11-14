@@ -9,13 +9,13 @@
 
 ##  Skills
 ### Programing Languages 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,ruby,python,ts,haskell" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,python,ts,rust" />   
 
 ### Frontend Development
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=react" />   
 
 ### Backend Development
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails,nextjs,vite,servant" />  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=nextjs,vite" />  
 
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,emacs" />   

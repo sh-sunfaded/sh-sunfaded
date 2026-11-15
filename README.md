@@ -17,9 +17,3 @@
 ### Backend Development
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=nextjs,vite" />  
 
-### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,emacs" />   
-
-### Infrastructure
-<img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render,vercel&theme=dark&titles=true" />
-<br>
